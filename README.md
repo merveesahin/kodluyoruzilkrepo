@@ -1,5 +1,6 @@
 # kodluyoruz ilk repo
 Kodluyoruz eğitimi kapsamında açtığım ilk repo. icerisinde bir adet README dosyasi bir adet de index.html barindiriyor
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ## Installation
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 ```
